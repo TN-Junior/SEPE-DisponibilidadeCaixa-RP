@@ -1,6 +1,3 @@
-# Deploy
-https://sepe-disponibilidadecaixa-rp.onrender.com
-
 
 # Painel de Visualização de Dados
 
@@ -56,6 +53,9 @@ streamlit run app.py
 ``` bash
 http://localhost:8501
 ```
+
+## Deploy
+https://sepe-disponibilidadecaixa-rp.onrender.com
 
 
 
