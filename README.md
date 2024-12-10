@@ -43,7 +43,19 @@ Este repositório contém um painel de visualização de dados desenvolvido com 
   3. Instale as dependências:
 ``` bash
     pip install -r requirements.txt
+```
 
+## Uso
+
+1. Execute o aplicativo:
+``` bash
+streamlit run app.py
+```
+
+2. Acesse o painel no navegador:
+``` bash
+http://localhost:8501
+```
 
 
 
