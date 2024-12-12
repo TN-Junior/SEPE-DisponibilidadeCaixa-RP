@@ -22,7 +22,7 @@ Este repositório contém um painel de visualização de dados desenvolvido com 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/TN-Junior/SEPE-DisponibilidadeCaixa-RP.git
    ````
    ``` bash
    cd seu-repositorio
