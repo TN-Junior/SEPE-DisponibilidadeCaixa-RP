@@ -25,7 +25,7 @@ Este repositório contém um painel de visualização de dados desenvolvido com 
    git clone https://github.com/TN-Junior/SEPE-DisponibilidadeCaixa-RP.git
    ````
    ``` bash
-   cd seu-repositorio
+   cd SEPE-DisponibilidadeCaixa-RP
     ```
 2. Crie um ambiente virtual (opcional, mas recomendado):
     ``` bash
